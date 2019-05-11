@@ -1,0 +1,2274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-05-11T22:02:14.940+09:00
+  initializedAtString: 2019-05-11T21:59:41.328+09:00
+  log:
+  - commitID: 2934a2eba9115cc129d505cd62cd500813006e9f
+    mergeA: 
+    mergeB: 
+    authorName: assaribari
+    authorEmail: assariba@gmail.com
+    commitEmail: assariba@gmail.com
+    commitName: assaribari
+    summary: ddd
+    description: 
+    timeString: 2019-05-11T22:01:39.000+09:00
+    commitTimeString: 2019-05-11T22:01:39.000+09:00
+    changes:
+    - path: Unity-Match3-ForBeginner.sln
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Unity-Match3-ForBeginner.sln
+      projectPath: Unity-Match3-ForBeginner.sln
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 4f5785780c8f96631534afb34a1756ff63f6e983
+    mergeA: 
+    mergeB: 
+    authorName: assaribari
+    authorEmail: assariba@gmail.com
+    commitEmail: assariba@gmail.com
+    commitName: assaribari
+    summary: third2
+    description: 
+    timeString: 2019-05-11T22:00:50.000+09:00
+    commitTimeString: 2019-05-11T22:00:50.000+09:00
+    changes:
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: c8b3fbb740396a3d071c9fe99999606a26bc49e7
+    mergeA: 
+    mergeB: 
+    authorName: assaribari
+    authorEmail: assariba@gmail.com
+    commitEmail: assariba@gmail.com
+    commitName: assaribari
+    summary: third
+    description: .
+    timeString: 2019-05-11T21:59:37.000+09:00
+    commitTimeString: 2019-05-11T21:59:37.000+09:00
+    changes:
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Tile.cs
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Scripts\Tile.cs
+      projectPath: Assets\Scripts\Tile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Tile.cs.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Scripts\Tile.cs.meta
+      projectPath: Assets\Scripts\Tile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 9c93a92c768b49d7ea2642e14dfcc11691a67edd
+    mergeA: 
+    mergeB: 
+    authorName: assaribari
+    authorEmail: assariba@gmail.com
+    commitEmail: assariba@gmail.com
+    commitName: assaribari
+    summary: first
+    description: .
+    timeString: 2019-05-11T21:47:42.000+09:00
+    commitTimeString: 2019-05-11T21:47:42.000+09:00
+    changes:
+    - path: Packages\manifest.json
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+      projectPath: obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+      projectPath: obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+      projectPath: obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 667c922e438d34b1e09e5baae1b6c19b7eb8ba0f
+    mergeA: 
+    mergeB: 
+    authorName: assaribari
+    authorEmail: assariba@gmail.com
+    commitEmail: assariba@gmail.com
+    commitName: assaribari
+    summary: first
+    description: .
+    timeString: 2019-05-11T21:45:24.000+09:00
+    commitTimeString: 2019-05-11T21:45:24.000+09:00
+    changes:
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\InGame.unity
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Scenes\InGame.unity
+      projectPath: Assets\Scenes\InGame.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\InGame.unity.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Scenes\InGame.unity.meta
+      projectPath: Assets\Scenes\InGame.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures.meta
+      projectPath: Assets\Textures.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\ball1.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\ball1.png
+      projectPath: Assets\Textures\ball1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\ball1.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\ball1.png.meta
+      projectPath: Assets\Textures\ball1.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\banana.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\banana.png
+      projectPath: Assets\Textures\banana.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\banana.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\banana.png.meta
+      projectPath: Assets\Textures\banana.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\box.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\box.png
+      projectPath: Assets\Textures\box.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\box.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\box.png.meta
+      projectPath: Assets\Textures\box.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy10_choco.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy10_choco.png
+      projectPath: Assets\Textures\candy10_choco.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy10_choco.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy10_choco.png.meta
+      projectPath: Assets\Textures\candy10_choco.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_blue_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_blue_01.png
+      projectPath: Assets\Textures\candy1_blue_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_blue_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_blue_01.png.meta
+      projectPath: Assets\Textures\candy1_blue_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_blue_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_blue_02.png
+      projectPath: Assets\Textures\candy1_blue_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_blue_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_blue_02.png.meta
+      projectPath: Assets\Textures\candy1_blue_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_blue_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_blue_03.png
+      projectPath: Assets\Textures\candy1_blue_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_blue_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_blue_03.png.meta
+      projectPath: Assets\Textures\candy1_blue_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_green_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_green_01.png
+      projectPath: Assets\Textures\candy1_green_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_green_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_green_01.png.meta
+      projectPath: Assets\Textures\candy1_green_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_green_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_green_02.png
+      projectPath: Assets\Textures\candy1_green_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_green_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_green_02.png.meta
+      projectPath: Assets\Textures\candy1_green_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_green_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_green_03.png
+      projectPath: Assets\Textures\candy1_green_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_green_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_green_03.png.meta
+      projectPath: Assets\Textures\candy1_green_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_orange_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_orange_01.png
+      projectPath: Assets\Textures\candy1_orange_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_orange_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_orange_01.png.meta
+      projectPath: Assets\Textures\candy1_orange_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_orange_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_orange_02.png
+      projectPath: Assets\Textures\candy1_orange_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_orange_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_orange_02.png.meta
+      projectPath: Assets\Textures\candy1_orange_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_orange_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_orange_03.png
+      projectPath: Assets\Textures\candy1_orange_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_orange_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_orange_03.png.meta
+      projectPath: Assets\Textures\candy1_orange_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_purple_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_purple_01.png
+      projectPath: Assets\Textures\candy1_purple_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_purple_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_purple_01.png.meta
+      projectPath: Assets\Textures\candy1_purple_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_purple_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_purple_02.png
+      projectPath: Assets\Textures\candy1_purple_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_purple_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_purple_02.png.meta
+      projectPath: Assets\Textures\candy1_purple_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_purple_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_purple_03.png
+      projectPath: Assets\Textures\candy1_purple_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_purple_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_purple_03.png.meta
+      projectPath: Assets\Textures\candy1_purple_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_red_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_red_01.png
+      projectPath: Assets\Textures\candy1_red_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_red_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_red_01.png.meta
+      projectPath: Assets\Textures\candy1_red_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_red_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_red_02.png
+      projectPath: Assets\Textures\candy1_red_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_red_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_red_02.png.meta
+      projectPath: Assets\Textures\candy1_red_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_red_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_red_03.png
+      projectPath: Assets\Textures\candy1_red_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_red_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_red_03.png.meta
+      projectPath: Assets\Textures\candy1_red_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_yellow_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_yellow_01.png
+      projectPath: Assets\Textures\candy1_yellow_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_yellow_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_yellow_01.png.meta
+      projectPath: Assets\Textures\candy1_yellow_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_yellow_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_yellow_02.png
+      projectPath: Assets\Textures\candy1_yellow_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_yellow_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_yellow_02.png.meta
+      projectPath: Assets\Textures\candy1_yellow_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_yellow_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_yellow_03.png
+      projectPath: Assets\Textures\candy1_yellow_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy1_yellow_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy1_yellow_03.png.meta
+      projectPath: Assets\Textures\candy1_yellow_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_blue_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_blue_01.png
+      projectPath: Assets\Textures\candy2_blue_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_blue_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_blue_01.png.meta
+      projectPath: Assets\Textures\candy2_blue_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_blue_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_blue_02.png
+      projectPath: Assets\Textures\candy2_blue_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_blue_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_blue_02.png.meta
+      projectPath: Assets\Textures\candy2_blue_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_blue_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_blue_03.png
+      projectPath: Assets\Textures\candy2_blue_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_blue_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_blue_03.png.meta
+      projectPath: Assets\Textures\candy2_blue_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_green_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_green_01.png
+      projectPath: Assets\Textures\candy2_green_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_green_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_green_01.png.meta
+      projectPath: Assets\Textures\candy2_green_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_green_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_green_02.png
+      projectPath: Assets\Textures\candy2_green_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_green_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_green_02.png.meta
+      projectPath: Assets\Textures\candy2_green_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_green_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_green_03.png
+      projectPath: Assets\Textures\candy2_green_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_green_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_green_03.png.meta
+      projectPath: Assets\Textures\candy2_green_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_orange_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_orange_01.png
+      projectPath: Assets\Textures\candy2_orange_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_orange_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_orange_01.png.meta
+      projectPath: Assets\Textures\candy2_orange_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_orange_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_orange_02.png
+      projectPath: Assets\Textures\candy2_orange_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_orange_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_orange_02.png.meta
+      projectPath: Assets\Textures\candy2_orange_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_orange_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_orange_03.png
+      projectPath: Assets\Textures\candy2_orange_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_orange_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_orange_03.png.meta
+      projectPath: Assets\Textures\candy2_orange_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_purple_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_purple_01.png
+      projectPath: Assets\Textures\candy2_purple_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_purple_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_purple_01.png.meta
+      projectPath: Assets\Textures\candy2_purple_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_purple_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_purple_02.png
+      projectPath: Assets\Textures\candy2_purple_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_purple_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_purple_02.png.meta
+      projectPath: Assets\Textures\candy2_purple_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_purple_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_purple_03.png
+      projectPath: Assets\Textures\candy2_purple_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_purple_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_purple_03.png.meta
+      projectPath: Assets\Textures\candy2_purple_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_red_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_red_01.png
+      projectPath: Assets\Textures\candy2_red_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_red_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_red_01.png.meta
+      projectPath: Assets\Textures\candy2_red_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_red_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_red_02.png
+      projectPath: Assets\Textures\candy2_red_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_red_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_red_02.png.meta
+      projectPath: Assets\Textures\candy2_red_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_red_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_red_03.png
+      projectPath: Assets\Textures\candy2_red_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_red_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_red_03.png.meta
+      projectPath: Assets\Textures\candy2_red_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_yellow_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_yellow_01.png
+      projectPath: Assets\Textures\candy2_yellow_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_yellow_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_yellow_01.png.meta
+      projectPath: Assets\Textures\candy2_yellow_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_yellow_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_yellow_02.png
+      projectPath: Assets\Textures\candy2_yellow_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_yellow_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_yellow_02.png.meta
+      projectPath: Assets\Textures\candy2_yellow_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_yellow_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_yellow_03.png
+      projectPath: Assets\Textures\candy2_yellow_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy2_yellow_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy2_yellow_03.png.meta
+      projectPath: Assets\Textures\candy2_yellow_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy3_purple_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy3_purple_01.png
+      projectPath: Assets\Textures\candy3_purple_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy3_purple_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy3_purple_01.png.meta
+      projectPath: Assets\Textures\candy3_purple_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy3_purple_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy3_purple_02.png
+      projectPath: Assets\Textures\candy3_purple_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy3_purple_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy3_purple_02.png.meta
+      projectPath: Assets\Textures\candy3_purple_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy3_purple_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy3_purple_03.png
+      projectPath: Assets\Textures\candy3_purple_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy3_purple_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy3_purple_03.png.meta
+      projectPath: Assets\Textures\candy3_purple_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_blue_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_blue_01.png
+      projectPath: Assets\Textures\candy4_blue_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_blue_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_blue_01.png.meta
+      projectPath: Assets\Textures\candy4_blue_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_blue_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_blue_02.png
+      projectPath: Assets\Textures\candy4_blue_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_blue_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_blue_02.png.meta
+      projectPath: Assets\Textures\candy4_blue_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_blue_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_blue_03.png
+      projectPath: Assets\Textures\candy4_blue_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_blue_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_blue_03.png.meta
+      projectPath: Assets\Textures\candy4_blue_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_green_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_green_01.png
+      projectPath: Assets\Textures\candy4_green_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_green_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_green_01.png.meta
+      projectPath: Assets\Textures\candy4_green_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_green_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_green_02.png
+      projectPath: Assets\Textures\candy4_green_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_green_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_green_02.png.meta
+      projectPath: Assets\Textures\candy4_green_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_green_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_green_03.png
+      projectPath: Assets\Textures\candy4_green_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_green_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_green_03.png.meta
+      projectPath: Assets\Textures\candy4_green_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_orange_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_orange_01.png
+      projectPath: Assets\Textures\candy4_orange_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_orange_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_orange_01.png.meta
+      projectPath: Assets\Textures\candy4_orange_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_orange_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_orange_02.png
+      projectPath: Assets\Textures\candy4_orange_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_orange_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_orange_02.png.meta
+      projectPath: Assets\Textures\candy4_orange_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_orange_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_orange_03.png
+      projectPath: Assets\Textures\candy4_orange_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_orange_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_orange_03.png.meta
+      projectPath: Assets\Textures\candy4_orange_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_red_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_red_01.png
+      projectPath: Assets\Textures\candy4_red_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_red_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_red_01.png.meta
+      projectPath: Assets\Textures\candy4_red_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_red_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_red_02.png
+      projectPath: Assets\Textures\candy4_red_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_red_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_red_02.png.meta
+      projectPath: Assets\Textures\candy4_red_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_red_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_red_03.png
+      projectPath: Assets\Textures\candy4_red_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_red_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_red_03.png.meta
+      projectPath: Assets\Textures\candy4_red_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_yellow_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_yellow_01.png
+      projectPath: Assets\Textures\candy4_yellow_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_yellow_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_yellow_01.png.meta
+      projectPath: Assets\Textures\candy4_yellow_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_yellow_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_yellow_02.png
+      projectPath: Assets\Textures\candy4_yellow_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_yellow_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_yellow_02.png.meta
+      projectPath: Assets\Textures\candy4_yellow_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_yellow_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_yellow_03.png
+      projectPath: Assets\Textures\candy4_yellow_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy4_yellow_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy4_yellow_03.png.meta
+      projectPath: Assets\Textures\candy4_yellow_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_blue_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_blue_01.png
+      projectPath: Assets\Textures\candy5_blue_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_blue_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_blue_01.png.meta
+      projectPath: Assets\Textures\candy5_blue_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_blue_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_blue_02.png
+      projectPath: Assets\Textures\candy5_blue_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_blue_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_blue_02.png.meta
+      projectPath: Assets\Textures\candy5_blue_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_blue_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_blue_03.png
+      projectPath: Assets\Textures\candy5_blue_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_blue_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_blue_03.png.meta
+      projectPath: Assets\Textures\candy5_blue_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_green_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_green_01.png
+      projectPath: Assets\Textures\candy5_green_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_green_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_green_01.png.meta
+      projectPath: Assets\Textures\candy5_green_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_green_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_green_02.png
+      projectPath: Assets\Textures\candy5_green_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_green_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_green_02.png.meta
+      projectPath: Assets\Textures\candy5_green_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_green_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_green_03.png
+      projectPath: Assets\Textures\candy5_green_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_green_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_green_03.png.meta
+      projectPath: Assets\Textures\candy5_green_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_orange_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_orange_01.png
+      projectPath: Assets\Textures\candy5_orange_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_orange_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_orange_01.png.meta
+      projectPath: Assets\Textures\candy5_orange_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_orange_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_orange_02.png
+      projectPath: Assets\Textures\candy5_orange_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_orange_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_orange_02.png.meta
+      projectPath: Assets\Textures\candy5_orange_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_orange_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_orange_03.png
+      projectPath: Assets\Textures\candy5_orange_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_orange_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_orange_03.png.meta
+      projectPath: Assets\Textures\candy5_orange_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_purple_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_purple_01.png
+      projectPath: Assets\Textures\candy5_purple_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_purple_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_purple_01.png.meta
+      projectPath: Assets\Textures\candy5_purple_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_purple_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_purple_02.png
+      projectPath: Assets\Textures\candy5_purple_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_purple_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_purple_02.png.meta
+      projectPath: Assets\Textures\candy5_purple_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_purple_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_purple_03.png
+      projectPath: Assets\Textures\candy5_purple_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_purple_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_purple_03.png.meta
+      projectPath: Assets\Textures\candy5_purple_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_red_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_red_01.png
+      projectPath: Assets\Textures\candy5_red_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_red_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_red_01.png.meta
+      projectPath: Assets\Textures\candy5_red_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_red_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_red_02.png
+      projectPath: Assets\Textures\candy5_red_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_red_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_red_02.png.meta
+      projectPath: Assets\Textures\candy5_red_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_red_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_red_03.png
+      projectPath: Assets\Textures\candy5_red_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_red_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_red_03.png.meta
+      projectPath: Assets\Textures\candy5_red_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_yellow_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_yellow_01.png
+      projectPath: Assets\Textures\candy5_yellow_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_yellow_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_yellow_01.png.meta
+      projectPath: Assets\Textures\candy5_yellow_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_yellow_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_yellow_02.png
+      projectPath: Assets\Textures\candy5_yellow_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_yellow_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_yellow_02.png.meta
+      projectPath: Assets\Textures\candy5_yellow_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_yellow_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_yellow_03.png
+      projectPath: Assets\Textures\candy5_yellow_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy5_yellow_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy5_yellow_03.png.meta
+      projectPath: Assets\Textures\candy5_yellow_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_blue_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_blue_01.png
+      projectPath: Assets\Textures\candy6_blue_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_blue_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_blue_01.png.meta
+      projectPath: Assets\Textures\candy6_blue_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_blue_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_blue_02.png
+      projectPath: Assets\Textures\candy6_blue_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_blue_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_blue_02.png.meta
+      projectPath: Assets\Textures\candy6_blue_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_blue_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_blue_03.png
+      projectPath: Assets\Textures\candy6_blue_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_blue_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_blue_03.png.meta
+      projectPath: Assets\Textures\candy6_blue_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_green_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_green_01.png
+      projectPath: Assets\Textures\candy6_green_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_green_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_green_01.png.meta
+      projectPath: Assets\Textures\candy6_green_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_green_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_green_02.png
+      projectPath: Assets\Textures\candy6_green_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_green_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_green_02.png.meta
+      projectPath: Assets\Textures\candy6_green_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_green_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_green_03.png
+      projectPath: Assets\Textures\candy6_green_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_green_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_green_03.png.meta
+      projectPath: Assets\Textures\candy6_green_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_orange_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_orange_01.png
+      projectPath: Assets\Textures\candy6_orange_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_orange_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_orange_01.png.meta
+      projectPath: Assets\Textures\candy6_orange_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_orange_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_orange_03.png
+      projectPath: Assets\Textures\candy6_orange_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_orange_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_orange_03.png.meta
+      projectPath: Assets\Textures\candy6_orange_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_orange_04.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_orange_04.png
+      projectPath: Assets\Textures\candy6_orange_04.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_orange_04.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_orange_04.png.meta
+      projectPath: Assets\Textures\candy6_orange_04.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_purple_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_purple_01.png
+      projectPath: Assets\Textures\candy6_purple_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_purple_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_purple_01.png.meta
+      projectPath: Assets\Textures\candy6_purple_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_purple_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_purple_02.png
+      projectPath: Assets\Textures\candy6_purple_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_purple_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_purple_02.png.meta
+      projectPath: Assets\Textures\candy6_purple_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_purple_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_purple_03.png
+      projectPath: Assets\Textures\candy6_purple_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_purple_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_purple_03.png.meta
+      projectPath: Assets\Textures\candy6_purple_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_red_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_red_01.png
+      projectPath: Assets\Textures\candy6_red_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_red_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_red_01.png.meta
+      projectPath: Assets\Textures\candy6_red_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_red_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_red_02.png
+      projectPath: Assets\Textures\candy6_red_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_red_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_red_02.png.meta
+      projectPath: Assets\Textures\candy6_red_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_red_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_red_03.png
+      projectPath: Assets\Textures\candy6_red_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_red_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_red_03.png.meta
+      projectPath: Assets\Textures\candy6_red_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_yellow_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_yellow_01.png
+      projectPath: Assets\Textures\candy6_yellow_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_yellow_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_yellow_01.png.meta
+      projectPath: Assets\Textures\candy6_yellow_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_yellow_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_yellow_02.png
+      projectPath: Assets\Textures\candy6_yellow_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_yellow_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_yellow_02.png.meta
+      projectPath: Assets\Textures\candy6_yellow_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_yellow_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_yellow_03.png
+      projectPath: Assets\Textures\candy6_yellow_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy6_yellow_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy6_yellow_03.png.meta
+      projectPath: Assets\Textures\candy6_yellow_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_blue_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_blue_01.png
+      projectPath: Assets\Textures\candy7_blue_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_blue_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_blue_01.png.meta
+      projectPath: Assets\Textures\candy7_blue_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_blue_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_blue_02.png
+      projectPath: Assets\Textures\candy7_blue_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_blue_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_blue_02.png.meta
+      projectPath: Assets\Textures\candy7_blue_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_blue_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_blue_03.png
+      projectPath: Assets\Textures\candy7_blue_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_blue_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_blue_03.png.meta
+      projectPath: Assets\Textures\candy7_blue_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_green_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_green_01.png
+      projectPath: Assets\Textures\candy7_green_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_green_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_green_01.png.meta
+      projectPath: Assets\Textures\candy7_green_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_green_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_green_02.png
+      projectPath: Assets\Textures\candy7_green_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_green_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_green_02.png.meta
+      projectPath: Assets\Textures\candy7_green_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_green_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_green_03.png
+      projectPath: Assets\Textures\candy7_green_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_green_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_green_03.png.meta
+      projectPath: Assets\Textures\candy7_green_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_orange_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_orange_01.png
+      projectPath: Assets\Textures\candy7_orange_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_orange_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_orange_01.png.meta
+      projectPath: Assets\Textures\candy7_orange_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_orange_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_orange_02.png
+      projectPath: Assets\Textures\candy7_orange_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_orange_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_orange_02.png.meta
+      projectPath: Assets\Textures\candy7_orange_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_orange_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_orange_03.png
+      projectPath: Assets\Textures\candy7_orange_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_orange_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_orange_03.png.meta
+      projectPath: Assets\Textures\candy7_orange_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_purple_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_purple_01.png
+      projectPath: Assets\Textures\candy7_purple_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_purple_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_purple_01.png.meta
+      projectPath: Assets\Textures\candy7_purple_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_purple_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_purple_02.png
+      projectPath: Assets\Textures\candy7_purple_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_purple_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_purple_02.png.meta
+      projectPath: Assets\Textures\candy7_purple_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_purple_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_purple_03.png
+      projectPath: Assets\Textures\candy7_purple_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_purple_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_purple_03.png.meta
+      projectPath: Assets\Textures\candy7_purple_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_red_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_red_01.png
+      projectPath: Assets\Textures\candy7_red_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_red_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_red_01.png.meta
+      projectPath: Assets\Textures\candy7_red_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_red_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_red_02.png
+      projectPath: Assets\Textures\candy7_red_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_red_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_red_02.png.meta
+      projectPath: Assets\Textures\candy7_red_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_red_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_red_03.png
+      projectPath: Assets\Textures\candy7_red_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_red_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_red_03.png.meta
+      projectPath: Assets\Textures\candy7_red_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_yellow_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_yellow_01.png
+      projectPath: Assets\Textures\candy7_yellow_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_yellow_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_yellow_01.png.meta
+      projectPath: Assets\Textures\candy7_yellow_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_yellow_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_yellow_02.png
+      projectPath: Assets\Textures\candy7_yellow_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_yellow_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_yellow_02.png.meta
+      projectPath: Assets\Textures\candy7_yellow_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_yellow_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_yellow_03.png
+      projectPath: Assets\Textures\candy7_yellow_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy7_yellow_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy7_yellow_03.png.meta
+      projectPath: Assets\Textures\candy7_yellow_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_blue_bomb.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_blue_bomb.png
+      projectPath: Assets\Textures\candy8_blue_bomb.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_blue_bomb.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_blue_bomb.png.meta
+      projectPath: Assets\Textures\candy8_blue_bomb.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_green_bomb.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_green_bomb.png
+      projectPath: Assets\Textures\candy8_green_bomb.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_green_bomb.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_green_bomb.png.meta
+      projectPath: Assets\Textures\candy8_green_bomb.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_orange_bomb.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_orange_bomb.png
+      projectPath: Assets\Textures\candy8_orange_bomb.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_orange_bomb.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_orange_bomb.png.meta
+      projectPath: Assets\Textures\candy8_orange_bomb.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_purple_bomb.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_purple_bomb.png
+      projectPath: Assets\Textures\candy8_purple_bomb.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_purple_bomb.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_purple_bomb.png.meta
+      projectPath: Assets\Textures\candy8_purple_bomb.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_red_bomb.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_red_bomb.png
+      projectPath: Assets\Textures\candy8_red_bomb.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_red_bomb.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_red_bomb.png.meta
+      projectPath: Assets\Textures\candy8_red_bomb.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_yellow_bomb.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_yellow_bomb.png
+      projectPath: Assets\Textures\candy8_yellow_bomb.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\candy8_yellow_bomb.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\candy8_yellow_bomb.png.meta
+      projectPath: Assets\Textures\candy8_yellow_bomb.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\cherry.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\cherry.png
+      projectPath: Assets\Textures\cherry.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\cherry.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\cherry.png.meta
+      projectPath: Assets\Textures\cherry.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\ice_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\ice_01.png
+      projectPath: Assets\Textures\ice_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\ice_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\ice_01.png.meta
+      projectPath: Assets\Textures\ice_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\ice_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\ice_02.png
+      projectPath: Assets\Textures\ice_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\ice_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\ice_02.png.meta
+      projectPath: Assets\Textures\ice_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\sweet_star.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\sweet_star.png
+      projectPath: Assets\Textures\sweet_star.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\sweet_star.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\sweet_star.png.meta
+      projectPath: Assets\Textures\sweet_star.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\wood_01.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\wood_01.png
+      projectPath: Assets\Textures\wood_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\wood_01.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\wood_01.png.meta
+      projectPath: Assets\Textures\wood_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\wood_02.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\wood_02.png
+      projectPath: Assets\Textures\wood_02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\wood_02.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\wood_02.png.meta
+      projectPath: Assets\Textures\wood_02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\wood_03.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\wood_03.png
+      projectPath: Assets\Textures\wood_03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\wood_03.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\wood_03.png.meta
+      projectPath: Assets\Textures\wood_03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\zephyr.png
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\zephyr.png
+      projectPath: Assets\Textures\zephyr.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\zephyr.png.meta
+      fullPath: C:\Users\Administrator\Documents\Unity\Unity-Match3-ForBeginner\Assets\Textures\zephyr.png.meta
+      projectPath: Assets\Textures\zephyr.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
